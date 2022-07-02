@@ -16,7 +16,7 @@ I’m always eager to take on new challenges that lead me to a personal and prof
 <p align="left">
 <a href="https://linkedin.com/in/juanmanuelceronaraujo" target="blank"><img align="center" src="https://anka.com.co/wp-content/uploads/2017/04/Linkedin-Download-PNG.png" alt="juanceron023" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/juanceron256" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="juanceron256" height="30" width="40" /></a>
-<a href="https://play.google.com/store/apps/dev?id=8101593730099061920" target="blank"><img align="center" src="https://i.pinimg.com/originals/53/6f/29/536f2903b5a68939cd5a997c2231f8bf.png" alt="juanceron256" height="30" width="40" /></a>
+<a href="https://play.google.com/store/apps/dev?id=8101593730099061920" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2119/PNG/512/social_google_play_store_icon_131220.png" alt="juanceron256" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Portfolio:</h3>
