@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Spring Boot, JavaScript**
 
-- 🌱 I’m currently learning **Microservices, Docker, Kubernetes, Python, GO**
+- 🌱 I’m currently learning **Microservices, Docker, Kubernetes, AWS, GO**
 
 - 📫 How to reach me **juanceron256@gmail.com**
 
