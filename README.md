@@ -30,3 +30,7 @@ I’m always eager to take on new challenges that lead me to a personal and prof
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JuanCeron023&show_icons=true&locale=en&layout=compact" alt="JuanCeron023" /></p>
 </div>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JuanCeron023&" alt="JuanCeron023" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JuanCeron023&show_icons=true&locale=en" alt="JuanCeron023" /></p>
+
+
