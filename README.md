@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Microservices, Docker, Kubernetes, AWS, GO**
 
-- 📫 How to reach me **juanceron256@gmail.com**
+- 📫 How to reach me **LinkedIn**
 
 - ⚡ Know about me:
 I’m always eager to take on new challenges that lead me to a personal and professional growth. I love to work in innovative projects and technologies, always making sure of following best practices and creating quality code.
