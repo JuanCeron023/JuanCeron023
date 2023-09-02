@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Juan Manuel Ceron Araujo</h1>
+<h1 align="center">Hi 👋, I'm Juan Manuel Ceron</h1>
 <h3 align="center">A passionate FullStack Developer ✨</h3>
 
 
