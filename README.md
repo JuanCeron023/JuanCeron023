@@ -12,7 +12,7 @@ I’m always eager to take on new challenges that lead me to a personal and prof
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/juanmanuelceronaraujo" target="blank"><img align="center" src="https://e7.pngegg.com/pngimages/796/374/png-clipart-linkedin-linkedin.png" alt="juanceron023" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/juanmanuelceronaraujo" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/256/174/174857.png" alt="juanceron023" height="30" width="30" /></a>
 <a href="https://www.hackerrank.com/juanceron256" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="juanceron256" height="30" width="40" /></a>
 <a href="https://play.google.com/store/apps/dev?id=8101593730099061920" target="blank"><img align="center" src="https://desarrollador-android.com/wp-content/uploads/2015/03/play-store-icon-2-300x300.png" alt="juanceron256" height="30" width="30" /></a>
 </p>
