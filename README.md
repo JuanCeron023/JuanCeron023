@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Juan Manuel Ceron</h1>
-<h3 align="center">A passionate FullStack Developer ✨</h3>
+<h3 align="center">A passionate Backend Software Engineer ✨</h3>
 
 
 - 🔭 I’m currently working on **Golang, Microservices, Event Architecture, Docker, Kubernetes, AWS, GCP**
