@@ -2,9 +2,7 @@
 <h3 align="center">A passionate FullStack Developer ✨</h3>
 
 
-- 🔭 I’m currently working on **Spring Boot, JavaScript**
-
-- 🌱 I’m currently learning **Microservices, Docker, Kubernetes, AWS, GO**
+- 🔭 I’m currently working on **Golang, Microservices, Event Architecture, Docker, Kubernetes, AWS, GCP**
 
 - 📫 How to reach me **LinkedIn**
 
