@@ -96,11 +96,9 @@ I care about **engineering ownership**, fault-tolerant design, and systems that 
 ## 📊 GitHub Stats
 
 <p align="center">
- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JuanCeron023&show_icons=true&locale=en&layout=compact" alt="JuanCeron023" /></p>
-</div>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JuanCeron023&" alt="JuanCeron023" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JuanCeron023&show_icons=true&locale=en" alt="JuanCeron023" /></p>
 
 
 </p>
