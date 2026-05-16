@@ -106,7 +106,7 @@ I care about **engineering ownership**, fault-tolerant design, and systems that 
 ---
 
 <p align="center">
-  <sub>Open to senior/staff backend roles at companies where engineering ownership and technical excellence matter.</sub>
+  <sub>Open to software engineer roles at companies where engineering ownership and technical excellence matter.</sub>
 </p>
 
 
