@@ -25,7 +25,7 @@ Specialized in **Go (Golang)**, microservices, asynchronous event pipelines (Kin
 - **Disney Parks (Globant)**: Architected Go microservices and event pipelines handling **30K+ daily state updates**; doubled throughput and cut latency by ~40% by resolving Kinesis hot-sharding and deadlocks.
 - **Mercado Libre**: Built resilient event-driven Go backends handling **tens of thousands of daily events** via SQS/Kinesis; introduced circuit-breaker patterns that eliminated traffic-spike data loss.
 - **Optima (B2B SaaS)**: Built and independently operate a multi-tenant platform for public procurement alerts with real-time scraping, sub-500ms hybrid search, and automated billing for paying business subscribers.
-- **Pragma (Nequi)**: Cut monthly production defects by ~50% on financial platforms through comprehensive testing and reactive programming patterns.
+- **Pragma (Nequi)**: Improved service latency and resource efficiency across Java microservices through code-level performance tuning and non-blocking reactive patterns.
 
 ---
 
@@ -73,7 +73,7 @@ Specialized in **Go (Golang)**, microservices, asynchronous event pipelines (Kin
 > Java · Spring Boot · gRPC · AWS (Lambda, ECS Fargate, ALB) · PostgreSQL · Docker · Jenkins
 
 - Optimized external service routing via ALB between microservices and right-sized Lambda/ECS workloads, cutting operational costs by ~15%.
-- Reduced monthly production defects by ~50% on the Nequi credit platform through comprehensive unit testing and reactive programming patterns.
+- Improved response times and throughput on the Nequi credit platform by refactoring critical execution paths and adopting reactive (Spring WebFlux) non-blocking patterns.
 - Accelerated deployment velocity by strengthening CI/CD practices across Jenkins and GitHub.
 
 ### Software Developer — Soporte Lógico `Oct 2020 – Nov 2021`
