@@ -22,7 +22,7 @@ Specialized in **Go (Golang)**, microservices, asynchronous event pipelines (Kin
 
 ## ⚡ Technical Highlights
 
-- **Disney Parks (Globant)**: Architected Go microservices and event pipelines handling **30K+ daily state updates**; doubled throughput and cut latency by ~40% by resolving Kinesis hot-sharding and deadlocks.
+- **Disney Parks (Globant)**: Architected Go microservices and event pipelines handling **30K+ daily state updates**; resolved Kinesis hot-sharding and deadlocks to cut latency by nearly 40% while doubling peak throughput.
 - **Mercado Libre**: Built resilient event-driven Go backends handling **tens of thousands of daily events** via SQS/Kinesis; introduced circuit-breaker patterns that eliminated traffic-spike data loss.
 - **Optima (B2B SaaS)**: Built and independently operate a multi-tenant platform for public procurement alerts with real-time scraping, sub-500ms hybrid search, and automated billing for paying business subscribers.
 - **Pragma (Nequi)**: Improved service latency and resource efficiency across Java microservices through code-level performance tuning and non-blocking reactive patterns.
@@ -57,8 +57,8 @@ Specialized in **Go (Golang)**, microservices, asynchronous event pipelines (Kin
 > Go · Python · AWS (Kinesis, Fargate, Lambda, SQS, SNS, EventBridge) · MongoDB · OpenTelemetry · Grafana · New Relic
 
 - Led backend architecture for an 8+ engineer team, building decoupled Disney Parks services processing **30K+ updates daily** across entities.
-- Architected 20+ Go and Python Lambdas using hexagonal architecture, DDD, and Terraform; resolved Kinesis hot-shard and deadlock issues to **double throughput and reduce latency by ~40%**.
-- Hardened critical services with retries, fallbacks, and rate limiting instrumented with OpenTelemetry and Grafana, **cutting production incidents by ~33%**.
+- Architected 20+ Go and Python Lambdas using hexagonal architecture, DDD, and Terraform; resolved Kinesis hot-shard and deadlock bottlenecks, cutting latency by nearly 40% while roughly doubling peak throughput.
+- Hardened critical services with retries, fallbacks, and rate limiting instrumented with OpenTelemetry and Grafana, cutting production incidents close to a third.
 - Built real-time CDC data pipelines using MongoDB aggregations, Kinesis, SQS, and EventBridge at several thousand requests per second.
 
 ### Software Engineer II — Mercado Libre `Apr 2023 – Aug 2024`
@@ -66,13 +66,13 @@ Specialized in **Go (Golang)**, microservices, asynchronous event pipelines (Kin
 
 - Decoupled services on Kubernetes and Fargate using SQS and Kinesis with Terraform, streamlining independent service scaling.
 - Introduced circuit-breaker and retry patterns across the event-driven architecture, **eliminating data loss during high-traffic spikes**.
-- Automated customer support workflows and consolidated observability across Datadog, New Relic, and unified Grafana dashboards, reducing operational costs by ~25%.
-- Diagnosed and resolved concurrency bottlenecks using Go profiling tools, increasing throughput under peak loads.
+- Automated customer support workflows and consolidated observability across Datadog, New Relic, and unified Grafana dashboards, cutting operational costs by roughly a quarter.
+- Diagnosed and resolved concurrency bottlenecks using Go profiling tools, noticeably improving throughput under peak loads.
 
 ### Software Engineer — Pragma (Nequi) `Nov 2021 – Apr 2023`
 > Java · Spring Boot · gRPC · AWS (Lambda, ECS Fargate, ALB) · PostgreSQL · Docker · Jenkins
 
-- Optimized external service routing via ALB between microservices and right-sized Lambda/ECS workloads, cutting operational costs by ~15%.
+- Optimized external service routing via ALB between microservices and right-sized Lambda/ECS workloads, reducing operational costs by about 15%.
 - Improved response times and throughput on the Nequi credit platform by refactoring critical execution paths and adopting reactive (Spring WebFlux) non-blocking patterns.
 - Accelerated deployment velocity by strengthening CI/CD practices across Jenkins and GitHub.
 
@@ -80,8 +80,8 @@ Specialized in **Go (Golang)**, microservices, asynchronous event pipelines (Kin
 > Java · Spring Boot · JavaScript · Python · AWS Lambda · Docker · Jenkins
 
 - Owned and scaled a platform serving **500+ Colombian companies**, applying SOLID principles to ensure maintainability.
-- Reduced REST API latency by 20% through MySQL query and index optimization.
-- Mentored 2 backend developers, increasing team productivity by >33%.
+- Noticeably reduced REST API latency through MySQL query profiling and index optimization.
+- Mentored 2 backend developers on clean architecture, unit testing, and Git workflows to accelerate onboarding.
 
 ---
 
