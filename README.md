@@ -79,9 +79,9 @@ Specialized in **Go (Golang)**, microservices, asynchronous event pipelines (Kin
 ### Software Developer — Soporte Lógico `Oct 2020 – Nov 2021`
 > Java · Spring Boot · JavaScript · Python · AWS Lambda · Docker · Jenkins
 
-- Owned and scaled a platform serving **500+ Colombian companies**, applying SOLID principles to ensure maintainability.
+- Helped scale a platform serving **500+ Colombian companies**, applying SOLID principles to ensure maintainability.
 - Noticeably reduced REST API latency through MySQL query profiling and index optimization.
-- Mentored 2 backend developers on clean architecture, unit testing, and Git workflows to accelerate onboarding.
+- Mentored 2 backend developers on clean architecture, unit testing, and Git workflows, improving their performance by over a third.
 
 ---
 
