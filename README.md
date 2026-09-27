@@ -1,115 +1,109 @@
-<h1 align="center">Hi 👋, I'm Juan Manuel Ceron</h1>
+<h1 align="center">Hi 👋, I'm Juan Manuel Cerón</h1>
 
 <p align="center">
-  <strong>Senior Software Engineer</strong> · Go · Distributed Systems · AWS<br/>
-  <sub>Disney · Mercado Libre · Globant</sub>
+  <strong>Senior Software Engineer</strong> · Go · Distributed Systems · AWS · Applied AI<br/>
+  <sub>Medellín / Pasto, Colombia · Remote (GMT-5)</sub>
 </p>
 
 <p align="center">
+  <a href="https://jmceron.com"><img src="https://img.shields.io/badge/Portfolio-jmceron.com-black?style=flat&logo=safari&logoColor=white"/></a>
   <a href="https://linkedin.com/in/juanmanuelceronaraujo"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.hackerrank.com/juanceron256"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white"/></a>
-  <a href="https://juanceron023.github.io/portfolio1/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white"/></a>
+  <a href="https://www.credly.com/users/juan-manuel-ceron-araujo.4f4e3e87"><img src="https://img.shields.io/badge/Credly-Certifications-FF6B00?style=flat&logo=credly&logoColor=white"/></a>
+  <a href="mailto:juanceron256@gmail.com"><img src="https://img.shields.io/badge/Email-juanceron256@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
-5+ years building **high-scale distributed systems** and **cloud-native applications** for large global platforms like **Disney** and **Mercado Libre**. I specialize in Go microservices, AWS event-driven architectures, and observability for high-throughput systems.
+Senior Software Engineer with **5+ years of experience** architecting distributed, event-driven backend systems on AWS for high-traffic platforms (Disney Parks, Mercado Libre). 
 
-I care about **engineering ownership**, fault-tolerant design, and systems that stay reliable at scale. Currently contributing to **AI-assisted internal tooling** that accelerates engineering decision-making.
-
----
-
-## ⚡ Impact at a glance
-
-| Metric | Result |
-|--------|--------|
-| Backend throughput (Disney) | **2×** improvement |
-| Real-time latency (Disney) | **~40%** reduction |
-| Daily async events processed | **30K+** reliably |
-| Production incidents reduced | **~33%** |
-| Operational cost reduction | **~25%** (Mercado Libre) |
-| Monthly production defects | **~50%** fewer (Pragma/Nequi) |
+Specialized in **Go (Golang)**, microservices, asynchronous event pipelines (Kinesis, SQS, SNS, EventBridge), and fault-tolerant architecture (circuit breakers, retries, fallbacks). Also the independent founder and engineer behind **[Optima](https://contratosoptima.com/)**, an end-to-end B2B SaaS platform that automates public procurement monitoring in Colombia.
 
 ---
 
-## 🏗 Tech Stack
+## ⚡ Technical Highlights
 
-**Languages:** Go (primary) · Java · TypeScript · SQL · Python
-
-**Cloud & Infrastructure:**
-`AWS Lambda` `API Gateway` `S3` `DynamoDB` `ECS/Fargate` `Kinesis` `SQS` `SNS` `EventBridge` `EC2` `GCP`
-
-**Architecture:**
-`Distributed Systems` `Microservices` `Event-Driven Architecture` `Fault-Tolerant Design` `REST APIs`
-
-**Databases:** PostgreSQL · MongoDB · DynamoDB · Redis · BigQuery
-
-**Observability & DevOps:** Datadog · New Relic · CloudWatch · Docker · Kubernetes · CI/CD · Jenkins
+- **Disney Parks (Globant)**: Architected Go microservices and event pipelines handling **30K+ daily state updates**; doubled throughput and cut latency by ~40% by resolving Kinesis hot-sharding and deadlocks.
+- **Mercado Libre**: Built resilient event-driven Go backends handling **tens of thousands of daily events** via SQS/Kinesis; introduced circuit-breaker patterns that eliminated traffic-spike data loss.
+- **Optima (B2B SaaS)**: Built and independently operate a multi-tenant platform for public procurement alerts with real-time scraping, sub-500ms hybrid search, and automated billing for paying business subscribers.
+- **Pragma (Nequi)**: Cut monthly production defects by ~50% on financial platforms through comprehensive testing and reactive programming patterns.
 
 ---
 
-## 💼 Experience
+## 🚀 Featured Projects & Open Source
 
-### Senior Software Engineer — Globant (Disney) `Aug 2024 – present`
-> Go · AWS · MongoDB · New Relic · Distributed Systems
+- **[Optima (B2B SaaS)](https://contratosoptima.com/)** — End-to-end platform automating SECOP II public procurement alerts in Colombia. Multi-tenant architecture serving active paying businesses.
+- **[Earthquake Intelligence Engine (Hybrid RAG)](https://github.com/JuanCeron023/venezuela-colombia-earthquake-rag)** — Global emergency intelligence platform combining high-throughput Go ingestion pipelines, PostgreSQL + pgvector (HNSW), and DeepSeek AI verification.
+- **[Forge](https://github.com/JuanCeron023/forge)** — Autonomous multi-agent software engineering skill that orchestrates architecture, implementation, automated verification, and clean delivery across 7 specialized phases.
+- **[Atlas](https://github.com/JuanCeron023/atlas)** — Universal distributed systems knowledge base covering concurrency invariants, streaming patterns, context propagation, container CFS quotas, and backend reliability best practices.
+- **[Booksy](https://github.com/JuanCeron023/booksy)** — Clean-architecture Go microservice platform for AI-powered card-based book distillations, preserving author voice, verbatim quotes, and original diagrams.
+- **[Distributed Feature Flags (Raft Consensus)](https://github.com/JuanCeron023/raft-consensus-feature-flags)** — Fault-tolerant feature flagging powered by the Raft consensus algorithm with dynamic leader election and replicated state machines in Go.
+- **[LSM-Tree Time-Series Database](https://github.com/JuanCeron023/lsm-timeseries-db-go)** — High-throughput append-only storage engine in Go with WAL, in-memory SkipList memtable, SSTables with sparse index, Bloom filters, and background compaction.
 
-- Redesigned core Go microservices → **2× throughput**, **~40% lower latency** for high-volume customer-facing systems
-- Designed event-driven architecture using Kinesis, SQS, and EventBridge processing **30K+ daily async state updates**
-- Built fault-tolerant services with retries, fallbacks, and rate limiting → **~33% fewer production incidents**
-- Co-built AI-assisted internal tooling automating operational workflows and accelerating engineering insights
+---
 
-### Software Engineer — Mercado Libre `Apr 2023 – Aug 2024`
-> Go · AWS · Pub/Sub · Datadog · New Relic
+## 🛠️ Core Tech Stack
 
-- Reduced operational costs by **~25%** by automating customer support workflows
-- Built scalable event-driven Go backend handling **tens of thousands of daily events** with retry strategies
-- Improved resilience with circuit breakers, fallbacks, and fault-tolerance patterns for high-traffic integrations
+- **Languages**: Go (primary), Python, TypeScript, Java, SQL
+- **Cloud & Infrastructure**: AWS (Lambda, Kinesis, ECS/Fargate, SQS, SNS, EventBridge, S3, ALB, DynamoDB), Docker, Kubernetes, Terraform
+- **Databases & Storage**: PostgreSQL (pgvector), MongoDB, DynamoDB, Redis, LSM-Tree Engines
+- **Architecture**: Distributed Systems, Event-Driven Architecture, Microservices, Hexagonal Architecture, DDD, Fault-Tolerant Design
+- **Observability & Reliability**: OpenTelemetry, Datadog, Grafana, New Relic, CloudWatch, CI/CD (GitHub Actions, Jenkins)
 
-### Ssr Software Engineer — Pragma (Nequi) `Jul 2022 – Apr 2023`
-> Java · Spring Boot · AWS · PostgreSQL · Jenkins
+---
 
-- Contributed to **~15% reduction in operational costs** on the Nequi credit platform
-- Reduced monthly production defects by **~50%** through comprehensive unit testing
-- Built a reactive PoC (WebFlux + Java 17) adopted in selected services → **~25% better response times**
+## 💼 Professional Experience
 
-### Software Developer — Soporte Lógico `Feb 2022 – Jul 2022`
-> Java · Spring Boot · JavaScript · AWS
+### Senior Software Engineer — Globant (Disney Parks) `Aug 2024 – Present`
+> Go · Python · AWS (Kinesis, Fargate, Lambda, SQS, SNS, EventBridge) · MongoDB · OpenTelemetry · Grafana · New Relic
 
-- Maintained a platform serving **500+ companies** and **450K employees**
-- Mentored 2 junior backend developers, improving their productivity by **>33%**
+- Led backend architecture for an 8+ engineer team, building decoupled Disney Parks services processing **30K+ updates daily** across entities.
+- Architected 20+ Go and Python Lambdas using hexagonal architecture, DDD, and Terraform; resolved Kinesis hot-shard and deadlock issues to **double throughput and reduce latency by ~40%**.
+- Hardened critical services with retries, fallbacks, and rate limiting instrumented with OpenTelemetry and Grafana, **cutting production incidents by ~33%**.
+- Built real-time CDC data pipelines using MongoDB aggregations, Kinesis, SQS, and EventBridge at several thousand requests per second.
 
-### Full Stack Developer — Universidad Mariana `Jan 2021 – Feb 2022`
-> Java · Spring Boot · JavaScript · MySQL · AWS
+### Software Engineer II — Mercado Libre `Apr 2023 – Aug 2024`
+> Go · AWS (SQS, Kinesis, Fargate) · Kubernetes · Terraform · Docker · Datadog · Grafana · OpenTelemetry
 
-- Modernized the university's course platform applying SOLID, clean code, and comprehensive testing
-- Hired into this professional role based on achieving the **highest GPA every semester** in the program
+- Decoupled services on Kubernetes and Fargate using SQS and Kinesis with Terraform, streamlining independent service scaling.
+- Introduced circuit-breaker and retry patterns across the event-driven architecture, **eliminating data loss during high-traffic spikes**.
+- Automated customer support workflows and consolidated observability across Datadog, New Relic, and unified Grafana dashboards, reducing operational costs by ~25%.
+- Diagnosed and resolved concurrency bottlenecks using Go profiling tools, increasing throughput under peak loads.
+
+### Software Engineer — Pragma (Nequi) `Nov 2021 – Apr 2023`
+> Java · Spring Boot · gRPC · AWS (Lambda, ECS Fargate, ALB) · PostgreSQL · Docker · Jenkins
+
+- Optimized external service routing via ALB between microservices and right-sized Lambda/ECS workloads, cutting operational costs by ~15%.
+- Reduced monthly production defects by ~50% on the Nequi credit platform through comprehensive unit testing and reactive programming patterns.
+- Accelerated deployment velocity by strengthening CI/CD practices across Jenkins and GitHub.
+
+### Software Developer — Soporte Lógico `Oct 2020 – Nov 2021`
+> Java · Spring Boot · JavaScript · Python · AWS Lambda · Docker · Jenkins
+
+- Owned and scaled a platform serving **500+ Colombian companies**, applying SOLID principles to ensure maintainability.
+- Reduced REST API latency by 20% through MySQL query and index optimization.
+- Mentored 2 backend developers, increasing team productivity by >33%.
+
+---
+
+## 📜 Certifications
+
+- **AWS Certified Solutions Architect – Associate** — Amazon Web Services · 2026
+- **Claude with Amazon Bedrock** — Anthropic · 2026
+- **IBM RAG and Agentic AI Professional Certificate** — IBM · 2026
+- **MongoDB SI Architect Certification** — MongoDB · 2025
+- **AWS Cloud Practitioner** — Amazon Web Services · 2023
+- **Microsoft Certified: Azure Fundamentals (AZ-900)** — Microsoft · 2022
+- **Scrum Foundation Professional Certificate (SFPC)** — CertiProf · 2021
 
 ---
 
 ## 🎓 Education
 
-**B.S. Software Engineering** — Universidad Mariana, Pasto · 2017–2022  
-🏅 Full-tuition scholarship every semester · Highest GPA in program
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JuanCeron023&" alt="JuanCeron023" /></p>
-
-
-
-</p>
+**B.S. Software Engineering** — Universidad Mariana, Pasto, Colombia · 2017 – 2022  
+🏅 Full-tuition scholarship every semester awarded for highest GPA in cohort.
 
 ---
 
 <p align="center">
-  <sub>Open to software engineer roles at companies where engineering ownership and technical excellence matter.</sub>
+  <sub>Find more details and interactive projects at <a href="https://jmceron.com">jmceron.com</a></sub>
 </p>
-
-
-
-
-
