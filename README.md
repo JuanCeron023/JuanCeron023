@@ -104,6 +104,22 @@ Specialized in **Go (Golang)**, microservices, asynchronous event pipelines (Kin
 
 ---
 
+## 📊 Activity & Contributions
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JuanCeron023/JuanCeron023/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JuanCeron023/JuanCeron023/output/github-snake.svg">
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/JuanCeron023/JuanCeron023/output/github-snake.svg">
+  </picture>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=JuanCeron023&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+</p>
+
+---
+
 <p align="center">
   <sub>Find more details and interactive projects at <a href="https://jmceron.com">jmceron.com</a></sub>
 </p>
